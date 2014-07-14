@@ -1,2 +1,4 @@
 1.run automain.py with the positive class label.
+	python auto_main.py 'Grocery'
 2.values are generated in values.tsv
+Note:the code uses subprocess modules to run various scripts. 
